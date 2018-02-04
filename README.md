@@ -12,3 +12,5 @@ http://blog.addgene.org/piggybac-ing-through-the-genome-editing-field
 
 3. piggyBac Companies:
 https://www.systembio.com/products/gene-expression-systems/piggybac-transposon/
+
+## current pipeline structure (by snakemake):
